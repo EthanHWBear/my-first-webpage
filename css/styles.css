@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: darkgreen;
+  font-style: unset;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+ul {
+  font-style: oblique;
+  font-weight: inherit;
+  font-size: 20px;
+  line-height: 30px;
+}
